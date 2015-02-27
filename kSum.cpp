@@ -1,4 +1,7 @@
-ass Solution {
+
+
+
+class Solution{
 public:
     /**
      * @param A: an integer array.
